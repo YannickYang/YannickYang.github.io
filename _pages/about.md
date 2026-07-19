@@ -74,37 +74,6 @@ Publications
 
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
-    <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
-    <div>
-        <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
-        <i style="font-size: 13px;">
-            Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
-        </i><br>
-        A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
-        <br>
-        <b><i style="color:#83a1c7;">CoRL 2026 (submitted) &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card featured">
-  <div style="display: flex; align-items: center;">
-    <img src="images/Binocular.png" alt="Biomimetic" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
-    <div>
-        <strong>Biomimetic Design and Hierarchical Coordinated Control for Hyper-Redundant Surgical Robots in Confined Space</strong><br>
-        <i style="font-size: 13px;">
-            <span class="self-author">Zijie Yang</span>, Shujian Zhang, Yuxin He, Lin Liu, Wanquan Liu, Jianqing Peng&dagger;
-        </i><br>
-        Biomimetic mechanical design and hierarchical control for hyper-redundant surgical robots operating in narrow anatomical workspaces.
-        <br>
-        <b><i style="color:#83a1c7;">Applied Mathematical Modelling, 2026 (JCR Q1, submitted) &nbsp;</i></b>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card featured">
-  <div style="display: flex; align-items: center;">
     <img src="images/Structured.jpg" alt="Structured Framework" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
         <strong>Structured Framework for Physics-Guided Residual Modeling and Hybrid IK–RL Control of Tendon-Driven Continuum Robots</strong><br>
@@ -152,6 +121,37 @@ Publications
 
 <div class="publication-card non-featured">
   <div style="display: flex; align-items: center;">
+    <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
+        <i style="font-size: 13px;">
+            Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
+        </i><br>
+        A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
+        <br>
+        <b><i style="color:#83a1c7;">CoRL 2026 (submitted) &nbsp;</i></b>
+        <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card non-featured">
+  <div style="display: flex; align-items: center;">
+    <img src="images/Binocular.png" alt="Biomimetic" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>Biomimetic Design and Hierarchical Coordinated Control for Hyper-Redundant Surgical Robots in Confined Space</strong><br>
+        <i style="font-size: 13px;">
+            <span class="self-author">Zijie Yang</span>, Shujian Zhang, Yuxin He, Lin Liu, Wanquan Liu, Jianqing Peng&dagger;
+        </i><br>
+        Biomimetic mechanical design and hierarchical control for hyper-redundant surgical robots operating in narrow anatomical workspaces.
+        <br>
+        <b><i style="color:#83a1c7;">Applied Mathematical Modelling, 2026 (JCR Q1, submitted) &nbsp;</i></b>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card non-featured">
+  <div style="display: flex; align-items: center;">
     <img src="images/Adaptive.jpg" alt="Adaptive HRI" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
         <strong>Adaptive Physical Human–Robot Interaction for TCM Therapy: From Sparse Visual Perception to Compliant Force Control</strong><br>
@@ -165,23 +165,23 @@ Publications
   </div>
 </div>
 
-<div class="publication-card non-featured">
-  <div>
-      <strong>Patent: A Persistent and Stable Visual Servoing Control System</strong><br>
-      <i style="font-size: 13px;"><span class="self-author">Zijie Yang</span>, Jianqing Peng</i><br>
-      Chinese Invention Patent No. ZL 202311805261.6. Granted 2025-05-06.
-      <br>
-      <b><i style="color:#83a1c7;">Patent, 2023 &nbsp;</i></b>
-  </div>
-</div>
-
-<div class="publication-card non-featured">
+<div class="publication-card featured">
   <div>
       <strong>Patent: Multimodal-Medical-LLM-based Control Method and System for Orthopedic Endoscope-Holding Robots</strong><br>
       <i style="font-size: 13px;">Zijiang Chen, Wenqing Wei, Shujian Zhang, <span class="self-author">Zijie Yang</span>, Yu Han, Jianqing Peng</i><br>
       Chinese Invention Patent No. ZL 2024109974648. Granted 2025-05-06.
       <br>
       <b><i style="color:#83a1c7;">Patent, 2024 &nbsp;</i></b>
+  </div>
+</div>
+
+<div class="publication-card featured">
+  <div>
+      <strong>Patent: A Persistent and Stable Visual Servoing Control System</strong><br>
+      <i style="font-size: 13px;"><span class="self-author">Zijie Yang</span>, Jianqing Peng</i><br>
+      Chinese Invention Patent No. ZL 202311805261.6. Granted 2025-05-06.
+      <br>
+      <b><i style="color:#83a1c7;">Patent, 2023 &nbsp;</i></b>
   </div>
 </div>
 
