@@ -237,19 +237,19 @@ Awards
       <span class="profile-list__content"><b>Silver Medal, 51st International Exhibition of Inventions of Geneva</b> — for research on control of hyper-redundant robots in confined space.</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__content">First-class Graduate Scholarship, Sun Yat-sen University</span>
-    </li>
-    <li class="profile-list__item">
       <span class="profile-list__content">Meritorious Winner (M-Prize), MCM/ICM Mathematical Contest in Modeling</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__content">First Prize (Guangdong), CCF Collegiate Programming Contest — Tianti Competition</span>
+      <span class="profile-list__content">First Prize (Guangdong), CCF Collegiate Programming Contest</span>
+    </li>
+    <li class="profile-list__item">
+      <span class="profile-list__content">National Third Prize, China Robot Competition & RoboCup China Open</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__content">Second Prize, National College Mathematics Competition</span>
     </li>
-    <li class="profile-list__item">
-      <span class="profile-list__content">National Third Prize, China Robot Competition & RoboCup China Open</span>
+        <li class="profile-list__item">
+      <span class="profile-list__content">Several First-class Undergraduate and Graduate Scholarship, Sun Yat-sen University</span>
     </li>
   </ul>
 </section>
