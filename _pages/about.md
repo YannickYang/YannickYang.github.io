@@ -7,9 +7,9 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering (2024.9 - present).
+I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering (2024.9 - present), and an AGI Algorithm Engineer intern at [Unitree Robotics](https://github.com/unitreerobotics) (2026.6 - present).
 
-Previously, I interned at [Unitree Robotics](https://github.com/unitreerobotics) and [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
+Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
 I got my B.Eng. degree in Intelligent Science and Technology from Sun Yat-sen University (2020.9 - 2024.6).
 
@@ -18,12 +18,12 @@ News
 <section class="profile-list-section">
   <ul class="profile-list">
     <li class="profile-list__item">
-      <span class="profile-list__date">2026/05</span>
-      <span class="profile-list__content">Finished internships at <b>Unitree Robotics</b> and <b>SwitchBot</b>, working on VLA post-training, world-model conditioning, and dual-arm deployment.</span>
+      <span class="profile-list__date">2026/06</span>
+      <span class="profile-list__content">Started as an AGI Algorithm Engineer intern at <b>Unitree Robotics</b>.</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2026/03</span>
-      <span class="profile-list__content">Started as an AGI algorithm engineer intern at <b>Unitree Robotics</b> and as a VLA algorithm engineer intern at <b>SwitchBot</b>.</span>
+      <span class="profile-list__date">2026/05</span>
+      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at <b>SwitchBot</b>.</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2025/09</span>
@@ -44,7 +44,7 @@ Experience
       <img src="images/Unitree.jpg" alt="Unitree logo" class="experience-logo">
       <div class="experience-info">
           <strong>Unitree</strong><br>
-          Mar 2026 - May 2026<br>
+          Jun 2026 - present<br>
           AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Unitree Robotics</em></a>
       </div>
   </div>
