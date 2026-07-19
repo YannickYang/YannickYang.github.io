@@ -41,34 +41,38 @@ Experience
 
 <div class="experience-container">
   <div class="experience-card">
+      <img src="images/Unitree.jpg" alt="Unitree logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://www.unitree.com/">Unitree Robotics (宇树科技)</a></strong><br>
+          <strong>Unitree Robotics</strong><br>
           Mar 2026 - May 2026<br>
-          AGI Algorithm Engineer Intern &mdash; second-stage pretraining and finetuning of baseline VLA models across 32 tasks; Cosmos2 finetuning for future-frame prediction alongside the VLA backbone; construction of a Momagraph-style spatial–functional graph on top of the VLA/WAM stack for long-horizon subtasks; end-to-end pipeline for Dreamzero (Pico teleoperation → heuristic DAgger → deployment).
+          AGI Algorithm Engineer Intern at <a href="https://www.unitree.com/"><em>Unitree</em></a>
       </div>
   </div>
 
   <div class="experience-card">
+      <img src="images/SwitchBot.jpg" alt="SwitchBot logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://www.switch-bot.com/">SwitchBot (卧安科技)</a></strong><br>
+          <strong>SwitchBot</strong><br>
           Mar 2026 - May 2026<br>
-          VLA Algorithm Engineer Intern &mdash; post-training and optimization of in-house household VLA models (Kai0, VLAsh) with MA+SA schemes and heuristic-DAgger data pipelines; on-robot inference testing and deployment on a real dual-arm platform; reproduction and extension of the Kai0 architecture with BAGEL-learned per-subtask subgoals and future-frame generation (CoRL submission); architecture refactoring and automated inference/logging via a Vibe-coding CLI.
+          VLA Algorithm Engineer Intern at <a href="https://www.switch-bot.com/"><em>SwitchBot</em></a>
       </div>
   </div>
 
   <div class="experience-card">
+      <img src="images/SYSU.png" alt="SYSU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
           Sep 2024 - present<br>
-          M.Eng. in Electronic Information at <a href="https://sist.sysu.edu.cn/"><em>School of Intelligent Systems Engineering</em></a>. GPA 87 (1/64). First-class scholarship 2026.
+          M.Eng. in Electronic Information at <a href="https://sist.sysu.edu.cn/"><em>SIST</em></a>
       </div>
   </div>
 
   <div class="experience-card">
+      <img src="images/SYSU.png" alt="SYSU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
           Sep 2020 - Jun 2024<br>
-          B.Eng. in Intelligent Science and Technology (top 20%). Undergraduate research on medical robotics and visual servoing.
+          B.Eng. in Intelligent Science and Technology
       </div>
   </div>
 </div>
