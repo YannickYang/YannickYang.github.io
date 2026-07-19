@@ -43,9 +43,9 @@ Experience
   <div class="experience-card">
       <img src="images/Unitree.jpg" alt="Unitree logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Unitree Robotics</strong><br>
+          <strong>Unitree</strong><br>
           Mar 2026 - May 2026<br>
-          AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Unitree</em></a>
+          AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Robotics</em></a>
       </div>
   </div>
 
@@ -54,7 +54,7 @@ Experience
       <div class="experience-info">
           <strong>SwitchBot</strong><br>
           Mar 2026 - May 2026<br>
-          VLA Algorithm Engineer Intern at <a href="https://github.com/OpenWonderLabs"><em>SwitchBot</em></a>
+          VLA Algorithm Engineer Intern at <a href="https://github.com/OpenWonderLabs"><em>OneRobotics</em></a>
       </div>
   </div>
 
