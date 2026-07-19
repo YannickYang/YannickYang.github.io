@@ -89,6 +89,52 @@ Publications
 
 <div class="publication-card featured">
   <div style="display: flex; align-items: center;">
+    <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
+        <i style="font-size: 13px;">
+            Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
+        </i><br>
+        A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
+        <br>
+        <b><i style="color:#83a1c7;">CoRL 2026 &nbsp;</i></b>
+        <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card featured">
+  <div style="display: flex; align-items: center;">
+    <img src="images/Binocular.png" alt="Biomimetic" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>Biomimetic Design and Hierarchical Coordinated Control for Hyper-Redundant Surgical Robots in Confined Space</strong><br>
+        <i style="font-size: 13px;">
+            <span class="self-author">Zijie Yang</span>, Shujian Zhang, Yuxin He, Lin Liu, Wanquan Liu, Jianqing Peng&dagger;
+        </i><br>
+        Biomimetic mechanical design and hierarchical control for hyper-redundant surgical robots operating in narrow anatomical workspaces.
+        <br>
+        <b><i style="color:#83a1c7;">Applied Mathematical Modelling, 2026 (JCR Q1) &nbsp;</i></b>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card featured">
+  <div style="display: flex; align-items: center;">
+    <img src="images/Adaptive.jpg" alt="Adaptive HRI" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>Adaptive Physical Human–Robot Interaction for TCM Therapy: From Sparse Visual Perception to Compliant Force Control</strong><br>
+        <i style="font-size: 13px;">
+            Shujian Zhang, Zhijiang Chen, <span class="self-author">Zijie Yang</span>, Yu Han, Wanquan Liu, Jianqing Peng
+        </i><br>
+        Sparse visual perception coupled with compliant force control for adaptive physical human–robot interaction in traditional Chinese medicine therapy.
+        <br>
+        <b><i style="color:#83a1c7;">IEEE Transactions on Haptics, 2026 &nbsp;</i></b>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card featured">
+  <div style="display: flex; align-items: center;">
     <img src="images/multi-instrument.jpg" alt="Multi-Instrument" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
     <div>
         <strong>A Multi-Instrument Recognition and Autonomous Tracking Control Method for Robot-Assisted Endoscopic Adjustment</strong><br>
@@ -115,52 +161,6 @@ Publications
         <br>
         <b><i style="color:#83a1c7;">IEEE Sensors Journal, 2025 (JCR Q1) &nbsp;</i></b>
         <a href="https://doi.org/10.1109/JSEN.2025.3582390"><em>[paper]</em></a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card non-featured">
-  <div style="display: flex; align-items: center;">
-    <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
-    <div>
-        <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
-        <i style="font-size: 13px;">
-            Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
-        </i><br>
-        A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
-        <br>
-        <b><i style="color:#83a1c7;">CoRL 2026 (submitted) &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card non-featured">
-  <div style="display: flex; align-items: center;">
-    <img src="images/Binocular.png" alt="Biomimetic" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
-    <div>
-        <strong>Biomimetic Design and Hierarchical Coordinated Control for Hyper-Redundant Surgical Robots in Confined Space</strong><br>
-        <i style="font-size: 13px;">
-            <span class="self-author">Zijie Yang</span>, Shujian Zhang, Yuxin He, Lin Liu, Wanquan Liu, Jianqing Peng&dagger;
-        </i><br>
-        Biomimetic mechanical design and hierarchical control for hyper-redundant surgical robots operating in narrow anatomical workspaces.
-        <br>
-        <b><i style="color:#83a1c7;">Applied Mathematical Modelling, 2026 (JCR Q1, submitted) &nbsp;</i></b>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card non-featured">
-  <div style="display: flex; align-items: center;">
-    <img src="images/Adaptive.jpg" alt="Adaptive HRI" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
-    <div>
-        <strong>Adaptive Physical Human–Robot Interaction for TCM Therapy: From Sparse Visual Perception to Compliant Force Control</strong><br>
-        <i style="font-size: 13px;">
-            Shujian Zhang, Zhijiang Chen, <span class="self-author">Zijie Yang</span>, Yu Han, Wanquan Liu, Jianqing Peng
-        </i><br>
-        Sparse visual perception coupled with compliant force control for adaptive physical human–robot interaction in traditional Chinese medicine therapy.
-        <br>
-        <b><i style="color:#83a1c7;">IEEE Transactions on Haptics, 2026 (submitted) &nbsp;</i></b>
     </div>
   </div>
 </div>
