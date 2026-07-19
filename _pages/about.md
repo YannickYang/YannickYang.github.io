@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree Robotics](https://github.com/unitreerobotics).
+I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree](https://github.com/unitreerobotics).
 
 Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
@@ -19,7 +19,7 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/06</span>
-      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at SwitchBot and joined Unitree Robotics as an AGI Algorithm Engineer internship.</span>
+      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at SwitchBot and joined Unitree as an AGI Algorithm Engineer internship.</span>
     </li>
   </ul>
 </section>
@@ -73,14 +73,18 @@ Publications
 </div>
 
 <div class="publication-card featured">
-  <div>
-      <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
-      <i style="font-size: 13px;">
-          Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
-      </i><br>
-      A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
-      <br>
-      <b><i style="color:#83a1c7;">CoRL 2026 (submitted) &nbsp;</i></b>
+  <div style="display: flex; align-items: center;">
+    <img src="images/DEFLECT.png" alt="DEFLECT" width="200" height="120" style="margin-right: 20px; object-fit: cover; border-radius: 8px;">
+    <div>
+        <strong>DEFLECT: Temporal Counterfactual Preference Learning for Delay-Robust Asynchronous VLAs</strong><br>
+        <i style="font-size: 13px;">
+            Yixiang Zhu, Yonghao Chen, <span class="self-author">Zijie Yang</span>, Yusong Hu, Xinyu Chen
+        </i><br>
+        A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
+        <br>
+        <b><i style="color:#83a1c7;">CoRL 2026 (submitted) &nbsp;</i></b>
+        <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
+    </div>
   </div>
 </div>
 
