@@ -45,7 +45,7 @@ Experience
       <div class="experience-info">
           <strong>Unitree Robotics</strong><br>
           Mar 2026 - May 2026<br>
-          AGI Algorithm Engineer Intern at <a href="https://www.unitree.com/"><em>Unitree</em></a>
+          AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Unitree</em></a>
       </div>
   </div>
 
@@ -54,7 +54,7 @@ Experience
       <div class="experience-info">
           <strong>SwitchBot</strong><br>
           Mar 2026 - May 2026<br>
-          VLA Algorithm Engineer Intern at <a href="https://www.switch-bot.com/"><em>SwitchBot</em></a>
+          VLA Algorithm Engineer Intern at <a href="https://github.com/OpenWonderLabs"><em>SwitchBot</em></a>
       </div>
   </div>
 
@@ -63,7 +63,7 @@ Experience
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
           Sep 2024 - present<br>
-          M.Eng. in Electronic Information at <a href="https://sist.sysu.edu.cn/"><em>SIST</em></a>
+          M.Eng. in Electronic Information at <a href="https://ise.sysu.edu.cn/"><em>SIST</em></a>
       </div>
   </div>
 
@@ -72,7 +72,7 @@ Experience
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
           Sep 2020 - Jun 2024<br>
-          B.Eng. in Intelligent Science and Technology
+          B.Eng. in Intelligent Science and Technology at <a href="https://ise.sysu.edu.cn/"><em>SIST</em></a>
       </div>
   </div>
 </div>
