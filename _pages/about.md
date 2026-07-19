@@ -232,29 +232,23 @@ Projects
 Awards
 --------
 <section class="profile-list-section">
-  <ul class="profile-list">
+  <ul class="profile-list profile-list--no-date">
     <li class="profile-list__item">
-      <span class="profile-list__date">2026</span>
       <span class="profile-list__content"><b>Silver Medal, 51st International Exhibition of Inventions of Geneva</b> — for research on control of hyper-redundant robots in confined space.</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2026</span>
       <span class="profile-list__content">First-class Graduate Scholarship, Sun Yat-sen University</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2022</span>
       <span class="profile-list__content">Meritorious Winner (M-Prize), MCM/ICM Mathematical Contest in Modeling</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2022</span>
       <span class="profile-list__content">First Prize (Guangdong), CCF Collegiate Programming Contest — Tianti Competition</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2022</span>
       <span class="profile-list__content">Second Prize, National College Mathematics Competition</span>
     </li>
     <li class="profile-list__item">
-      <span class="profile-list__date">2022</span>
       <span class="profile-list__content">National Third Prize, China Robot Competition & RoboCup China Open</span>
     </li>
   </ul>
