@@ -167,7 +167,7 @@ Publications
 
 <div class="publication-card featured">
   <div>
-      <strong>Patent: Mirror-holding robot control method and system based on multi-mode question-answering large model</strong><br>
+      <strong>Mirror-holding robot control method and system based on multi-mode question-answering large model</strong><br>
       <i style="font-size: 13px;">Zijiang Chen, Wenqing Wei, Shujian Zhang, <span class="self-author">Zijie Yang</span>, Yu Han, Jianqing Peng</i><br>
       Chinese Invention Patent No. ZL 2024109974648. Granted 2025-05-06.
       <br>
@@ -178,7 +178,7 @@ Publications
 
 <div class="publication-card featured">
   <div>
-      <strong>Patent: A visual servo method and system for a mirror-holding robot</strong><br>
+      <strong>A visual servo method and system for a mirror-holding robot</strong><br>
       <i style="font-size: 13px;"><span class="self-author">Zijie Yang</span>, Jianqing Peng</i><br>
       Chinese Invention Patent No. ZL 202311805261.6. Granted 2025-05-06.
       <br>
