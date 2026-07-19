@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://ise.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree](https://github.com/unitreerobotics).
+I am currently a Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree](https://github.com/unitreerobotics).
 
 Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
-I got my B.Eng. degree in Intelligent Science and Technology from [Sun Yat-sen University](https://ise.sysu.edu.cn/).
+I got my B.Eng. degree in Intelligent Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 News
 ---------------
