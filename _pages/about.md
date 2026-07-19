@@ -234,7 +234,7 @@ Awards
 <section class="profile-list-section">
   <ul class="profile-list profile-list--no-date">
     <li class="profile-list__item">
-      <span class="profile-list__content"><b>Silver Medal, 51st International Exhibition of Inventions of Geneva</b> — for research on control of hyper-redundant robots in confined space.</span>
+      <span class="profile-list__content">Silver Medal, 51st International Exhibition of Inventions of Geneva</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__content">Meritorious Winner (M-Prize), MCM/ICM Mathematical Contest in Modeling</span>
