@@ -143,7 +143,7 @@ Publications
         </i><br>
         Multi-instrument recognition and closed-loop visual servoing for robot-assisted endoscope adjustment during minimally invasive surgery.
         <br>
-        <b><i style="color:#83a1c7;">Advanced Intelligent Systems, 2025 (JCR Q1, IF=6.1) &nbsp;</i></b>
+        <b><i style="color:#83a1c7;">Advanced Intelligent Systems, 2025 (JCR Q1) &nbsp;</i></b>
         <a href="https://doi.org/10.1002/aisy.202500938"><em>[paper]</em></a>
     </div>
   </div>
