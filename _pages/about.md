@@ -208,16 +208,6 @@ Projects
 
 <div class="project-card">
   <div>
-      <strong>ultra-agent &mdash; Multi-Agent Collaboration Framework</strong><br>
-      Multi-agent framework built on AgentScope with 20+ built-in tools, MCP-based external tool integration, and a Graph-RAG knowledge base. Async I/O for parallel tool execution across concurrent tasks.
-      <br>
-      <b><i style="color:#83a1c7;">2025/06 - 2026/01 &nbsp;</i></b>
-      <a href="https://github.com/quanfeifan/ultra-agent"><em>[code]</em></a>
-  </div>
-</div>
-
-<div class="project-card">
-  <div>
       <strong>Structure Optimization and Visual Servoing for Surgical Robots in Complex Scenarios</strong><br>
       Guangdong Provincial NSF project on biomimetic design and closed-loop visual servoing for surgical robots operating in confined anatomical workspaces. Combines forward kinematics/dynamics with vision-based feedback for sub-millimetre positioning.
       <br>
