@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and a **Top Intern** at the Embodied Intelligence Research Institute of [Noetix Robotics](https://github.com/Noetix-Robotics).
 
-My internship experience focuses on VLA and WAM post-training at both the whole-body and decoupled levels across humanoid robots, wheeled dual-arm robots, and dual-arm systems. I also investigate multimodal information-embedding strategies and their effectiveness, as well as RL-based post-processing for filtering redundant information.
+Before joining Noetix Robotics, I interned at [Unitree Robotics](https://github.com/unitreerobotics) and [OneRobotics](https://github.com/OpenWonderLabs). Across my internships, my work has focused on VLA and WAM post-training at both the whole-body and decoupled levels for humanoid robots, wheeled dual-arm robots, and dual-arm systems. I also investigate multimodal information-embedding strategies and their effectiveness, as well as RL-based post-processing for filtering redundant information.
 
 My research centers on multi-constraint visual servo control for rigid-flexible coupled robots and real-time visual information acquisition.
 
@@ -54,7 +54,7 @@ Experience
       <img src="images/SwitchBot.jpg" alt="SwitchBot logo" class="experience-logo">
       <div class="experience-info">
           <strong>SwitchBot</strong><br>
-          Feb 2026 - May 2026<br>
+          Mar 2026 - May 2026<br>
           VLA Algorithm Engineer Intern at <a href="https://github.com/OpenWonderLabs"><em>OneRobotics</em></a>
       </div>
   </div>
