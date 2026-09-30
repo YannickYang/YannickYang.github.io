@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and a **Top Intern** at the Embodied Intelligence Research Institute of [Noetix Robotics](https://www.noetixrobotics.com/en/).
+I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and a **Top Intern** at the Embodied Intelligence Research Institute of [Noetix Robotics](https://github.com/Noetix-Robotics).
 
 My internship experience focuses on VLA and WAM post-training at both the whole-body and decoupled levels across humanoid robots, wheeled dual-arm robots, and dual-arm systems. I also investigate multimodal information-embedding strategies and their effectiveness, as well as RL-based post-processing for filtering redundant information.
 
@@ -37,7 +37,7 @@ Experience
       <div class="experience-info">
           <strong>Noetix Robotics</strong><br>
           Aug 2026 - Present<br>
-          Top Intern (AGI Algorithms) at the <a href="https://www.noetixrobotics.com/en/"><em>Embodied Intelligence Research Institute</em></a>
+          Top Intern (AGI Algorithms) at the <a href="https://github.com/Noetix-Robotics"><em>Embodied Intelligence Research Institute</em></a>
       </div>
   </div>
 
