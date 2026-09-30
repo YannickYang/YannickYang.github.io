@@ -37,7 +37,7 @@ Experience
       <div class="experience-info">
           <strong>Noetix Robotics</strong><br>
           Aug 2026 - Present<br>
-          Top Intern (AGI Algorithms) at the <a href="https://github.com/Noetix-Robotics"><em>Embodied Intelligence Research Institute</em></a>
+          Top Intern at the Embodied Intelligence Research Institute of <a href="https://github.com/Noetix-Robotics"><em>Noetix Robotics</em></a>
       </div>
   </div>
 
