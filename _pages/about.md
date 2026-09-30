@@ -7,19 +7,23 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently a Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer internship at [Unitree](https://github.com/unitreerobotics).
+I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer Intern at [Noetix Robotics](https://www.noetixrobotics.com/en/).
 
-Previously, I interned at [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
+Previously, I interned at [Unitree Robotics](https://github.com/unitreerobotics) and [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
 
-I got my B.Eng. degree in Intelligent Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/).
+I received my B.Eng. in Intelligent Science and Technology from Sun Yat-sen University, where I am continuing my graduate studies in Electronic Information.
 
 News
 ---------------
 <section class="profile-list-section">
   <ul class="profile-list">
     <li class="profile-list__item">
+      <span class="profile-list__date">2026/08</span>
+      <span class="profile-list__content">Finished my internship at Unitree Robotics and joined Noetix Robotics as an AGI Algorithm Engineer Intern.</span>
+    </li>
+    <li class="profile-list__item">
       <span class="profile-list__date">2026/06</span>
-      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at SwitchBot and joined Unitree as an AGI Algorithm Engineer internship.</span>
+      <span class="profile-list__content">Finished my VLA Algorithm Engineer internship at SwitchBot and joined Unitree Robotics as an AGI Algorithm Engineer Intern.</span>
     </li>
   </ul>
 </section>
@@ -29,10 +33,19 @@ Experience
 
 <div class="experience-container">
   <div class="experience-card">
+      <img src="images/noetix-square.png" alt="Noetix Robotics logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>Noetix Robotics</strong><br>
+          Aug 2026 - Present<br>
+          AGI Algorithm Engineer Intern at <a href="https://www.noetixrobotics.com/en/"><em>Noetix Robotics</em></a>
+      </div>
+  </div>
+
+  <div class="experience-card">
       <img src="images/Unitree.jpg" alt="Unitree logo" class="experience-logo">
       <div class="experience-info">
           <strong>Unitree</strong><br>
-          Jun 2026 - present<br>
+          Jun 2026 - Aug 2026<br>
           AGI Algorithm Engineer Intern at <a href="https://github.com/unitreerobotics"><em>Unitree Robotics</em></a>
       </div>
   </div>
@@ -50,17 +63,9 @@ Experience
       <img src="images/SYSU.png" alt="SYSU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Sun Yat-sen University</strong><br>
-          Sep 2024 - present<br>
-          M.Eng. in Electronic Information at <a href="https://ise.sysu.edu.cn/"><em>SIST</em></a>
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/SYSU.png" alt="SYSU logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Sun Yat-sen University</strong><br>
-          Sep 2020 - Jun 2024<br>
-          B.Eng. in Intelligent Science and Technology at <a href="https://ise.sysu.edu.cn/"><em>SIST</em></a>
+          Sep 2020 - Present<br>
+          B.Eng. in Intelligent Science and Technology (2020-2024)<br>
+          M.Eng. in Electronic Information (2024-Present) at <a href="https://ise.sysu.edu.cn/"><em>SIST</em></a>
       </div>
   </div>
 </div>
