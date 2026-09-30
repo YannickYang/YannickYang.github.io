@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yannick Yang / Homepage"
 title_separator          : "-"
 name                     : Yannick
-description              : &description "M.Eng. student at Sun Yat-sen University and AGI Algorithm Engineer Intern at Noetix Robotics, working on VLA models and robotics."
+description              : &description "M.Eng. student at Sun Yat-sen University and Top Intern at the Embodied Intelligence Research Institute of Noetix Robotics, working on VLA/WAM post-training and robotic visual servo control."
 url                      : https://yannickyang.github.io
 baseurl                  : "" # site is hosted at the user root (repo name matches account name)
 repository               : "YannickYang/YannickYang.github.io"

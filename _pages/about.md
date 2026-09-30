@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and an AGI Algorithm Engineer Intern at [Noetix Robotics](https://www.noetixrobotics.com/en/).
+I am currently an M.Eng. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), School of Intelligent Systems Engineering, and a **Top Intern** at the Embodied Intelligence Research Institute of [Noetix Robotics](https://www.noetixrobotics.com/en/).
 
-Previously, I interned at [Unitree Robotics](https://github.com/unitreerobotics) and [SwitchBot](https://github.com/OpenWonderLabs), working on VLA models and imitation learning.
+My internship experience focuses on VLA and WAM post-training at both the whole-body and decoupled levels across humanoid robots, wheeled dual-arm robots, and dual-arm systems. I also investigate multimodal information-embedding strategies and their effectiveness, as well as RL-based post-processing for filtering redundant information.
 
-I received my B.Eng. in Intelligent Science and Technology from Sun Yat-sen University, where I am continuing my graduate studies in Electronic Information.
+My research centers on multi-constraint visual servo control for rigid-flexible coupled robots and real-time visual information acquisition.
 
 News
 ---------------
@@ -19,7 +19,7 @@ News
   <ul class="profile-list">
     <li class="profile-list__item">
       <span class="profile-list__date">2026/08</span>
-      <span class="profile-list__content">Finished my internship at Unitree Robotics and joined Noetix Robotics as an AGI Algorithm Engineer Intern.</span>
+      <span class="profile-list__content">Finished my internship at Unitree Robotics and joined the Embodied Intelligence Research Institute of Noetix Robotics as a Top Intern.</span>
     </li>
     <li class="profile-list__item">
       <span class="profile-list__date">2026/05</span>
@@ -37,7 +37,7 @@ Experience
       <div class="experience-info">
           <strong>Noetix Robotics</strong><br>
           Aug 2026 - Present<br>
-          AGI Algorithm Engineer Intern at <a href="https://www.noetixrobotics.com/en/"><em>Noetix Robotics</em></a>
+          Top Intern (AGI Algorithms) at the <a href="https://www.noetixrobotics.com/en/"><em>Embodied Intelligence Research Institute</em></a>
       </div>
   </div>
 
