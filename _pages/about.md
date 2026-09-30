@@ -101,7 +101,7 @@ Publications
         </i><br>
         A preference-learning framework for delay-robust asynchronous Vision-Language-Action models via temporal counterfactuals.
         <br>
-        <b><i style="color:#83a1c7;">CoRL 2026 &nbsp;</i></b>
+        <b><i style="color:#83a1c7;">ICIR 2026 &nbsp;</i></b>
         <a href="https://arxiv.org/abs/2605.19294"><em>[arXiv]</em></a>
     </div>
   </div>
